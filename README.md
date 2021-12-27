@@ -8,8 +8,6 @@ A project in [100 Days Of Code - Web Development Bootcamp [2022]](https://www.ud
 
 ## Topics covered
 
----
-
 - Units like em, rem and %
 - Media Queries
 - Side Drawer
