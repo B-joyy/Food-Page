@@ -4,7 +4,9 @@ A project in [100 Days Of Code - Web Development Bootcamp [2022]](https://www.ud
 
 - Module about **Responsive Web Design**
 
-### Topics covered
+---
+
+## Topics covered
 
 ---
 
