@@ -40,6 +40,16 @@ a {
   font-size: 1.25rem;
 }
 
+.menu-btn {
+}
+
+.menu-btn div {
+  width: 2rem;
+  height: 0.25rem;
+  background-color: #fff;
+  margin: 5px 0;
+}
+
 #main-header nav a:hover {
   color: rgb(228, 163, 44);
 }
